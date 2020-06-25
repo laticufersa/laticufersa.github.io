@@ -71,6 +71,7 @@ html, boody {
     background-color: darkslategray;
     height: 20vh;
     width: 100%;
+    
 }
 
 .logoRoda{
@@ -134,4 +135,12 @@ html, boody {
    width:100%;
    height:100%;
    z-index: 1;
+}
+
+.hidden {
+    display: none;
+}
+
+.input {
+    display: block;
 }
